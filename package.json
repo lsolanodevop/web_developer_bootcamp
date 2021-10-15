@@ -1,0 +1,23 @@
+{
+  "name": "web_developer_bootcamp",
+  "version": "1.0.0",
+  "description": "The repo is for the code made on the udemy course\r It will be uploading all the content and the projects made in the course in this repo in different folders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsolanodevop/web_developer_bootcamp.git"
+  },
+  "author": "Leonardo Solano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsolanodevop/web_developer_bootcamp/issues"
+  },
+  "homepage": "https://github.com/lsolanodevop/web_developer_bootcamp#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
